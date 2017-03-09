@@ -1,1 +1,3 @@
-caoniabi日你嘴 死胖子
+window.onload=function(){
+  alert('fucking girls,you are bicth')
+}
